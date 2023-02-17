@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto_currency_dashboard/static/css/main.c8648ec7.css",
+    "main.js": "/Crypto_currency_dashboard/static/js/main.819d402b.js",
+    "static/js/787.ec704a7a.chunk.js": "/Crypto_currency_dashboard/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Crypto_currency_dashboard/index.html",
+    "main.c8648ec7.css.map": "/Crypto_currency_dashboard/static/css/main.c8648ec7.css.map",
+    "main.819d402b.js.map": "/Crypto_currency_dashboard/static/js/main.819d402b.js.map",
+    "787.ec704a7a.chunk.js.map": "/Crypto_currency_dashboard/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8648ec7.css",
+    "static/js/main.819d402b.js"
+  ]
+}
