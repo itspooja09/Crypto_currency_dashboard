@@ -6,6 +6,8 @@ This is an Cryptocurrency Dashboard website that allows users to view cryptocurr
 
 Click on the link to visit Cryptocurrency Dashboard link
 
+https://crypto-currency-dashboard-p.netlify.app/
+
 ## Framework /Dependencies
 - ReactJs - https://reactjs.org/
 - React-redux - https://react-redux.js.org/
